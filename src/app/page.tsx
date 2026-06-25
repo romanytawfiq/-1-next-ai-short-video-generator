@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
   <div>
-    <h2>Next AI Short Video Generator</h2>
+    <h2 className="text-primary">Next AI Short Video Generator</h2>
     <Button>Click me</Button>
     <UserButton />
   </div>
